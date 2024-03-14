@@ -1,4 +1,4 @@
-# (issue link) test case
+# rez [#1683](https://github.com/AcademySoftwareFoundation/rez/issues/1683) test case
 
 Examples use PowerShell.
 
